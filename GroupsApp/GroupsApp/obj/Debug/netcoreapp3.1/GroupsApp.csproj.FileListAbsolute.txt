@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.exe
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\12. 06022023\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.genruntimeconfig.cache
